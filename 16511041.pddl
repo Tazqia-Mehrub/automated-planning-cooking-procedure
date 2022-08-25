@@ -1,0 +1,6 @@
+﻿(define (problem FOOD)
+(:domain PAN)
+(:objects OIL SPICE SALT MEAT )
+(:INIT (ONTABLE OIL) (ONTABLE SPICE) (ONTABLE SALT) (ONTABLE MEAT) (readytoadd))
+(:goal (AND (ONPAN OIL) (ONPAN_OIL SPICE) (ONPAN_OIL_SPICE SALT) (ONPAN_OIL_SPICE_SALT MEAT) ) )
+)

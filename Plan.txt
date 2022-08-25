@@ -1,0 +1,8 @@
+﻿(ready-to-add-on oil)
+(put-on-pan oil)
+(ready-to-add-on spice)
+(add-on-oil spice)
+(ready-to-add-on salt)
+(add-on-oil-spice salt)
+(ready-to-add-on meat)
+(add-on-oil-spice-salt meat)
